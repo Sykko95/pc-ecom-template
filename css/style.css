@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
+body{
+	font-family: Sawarabi Gothic;
+	margin: 0;
+	background-color: #f9f9f9;
+}
+.card{
+	box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.2);
+}
+.form-control{
+    border: none;
+    border-bottom: 1px solid #ccc;
+    border-radius: 0;
+}
+.form-control:focus{
+	box-shadow: none;
+	border-bottom-color: #e10c0c;
+}
+.form-floating > .form-control:focus~label{
+    color: #e10c0c;
+}
+.accordion-button:focus{
+	box-shadow: none;
+}
+.accordion-button:not(.collapsed)::after {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23e10c0c'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+ }
+ .scrollx > .row{
+	display: flex;
+	flex-wrap: nowrap;
+	overflow-x: auto;
+	/*-ms-overflow-style: none;  /* IE and Edge */
+  	/*scrollbar-width: none; /* Firefox */
+ }
+*::-webkit-scrollbar{
+	width: 9px;
+	height: 9px;
+}
+*::-webkit-scrollbar-track /*Chrome, Safari and Opera */ {
+	background: #f9f9f9;
+ }
+*::-webkit-scrollbar-thumb /*Chrome, Safari and Opera */ {
+	background-color: black;
+	border-radius: 20px;
+	border: 2px solid #f9f9f9;
+ }
+ .scrollx > .row > .card-container{
+	flex: 0 0 auto;
+	user-select: none;
+ }
+ * {
+	scrollbar-width: thin;
+	scrollbar-color: rgb(0, 0, 0) #f9f9f9;
+  }

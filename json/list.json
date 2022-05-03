@@ -1,0 +1,188 @@
+{
+    "notebook": [
+        {
+            "name":"Samsung Essentials E30",
+            "img":"https://d1kvbg99uxpcu.cloudfront.net/Custom/Content/Products/10/11/1011045_notebook-samsung-essentials-e30-memoria-ram-4-gb-hd-1tb-tela-led-full-hd-15-6-windows-10-np350xaa-kf3br_z4_637317930816918272.jpg",
+            "desc":"Memória RAM 4 GB, HD 1TB, Tela LED Full HD 15,6” Windows 10, Titanium",
+            "price":"2699.00"
+        },
+        {
+            "name":"Samsung Odyssey",
+            "img":"https://www.extra-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1223669632",
+            "desc":"NVIDIA GeForce GTX 1650 Core i5-9300H 8GB RAM 1TB HD Tela Full HD 15.6”",
+            "price":"7499.00"
+        },
+        {
+            "name":"ASUS VivoBook",
+            "img":"https://a-static.mlcdn.com.br/618x463/notebook-asus-m515da-ej502t-amd-ryzen-5-8gb-256gb-156-full-hd-windows-10/magazineluiza/135308500/f7944857a96b6d6e480f9cd508d9b91b.jpg",
+            "desc":"AMD Ryzen 5 RAM 8GB - HD 256GB Tela 15,6” Full HD Windows 10",
+            "price":"3561.55"
+        },
+        {
+            "name":"Predator Helios 300",
+            "img":"https://acerstore.vteximg.com.br/arquivos/ids/157921-900-900/PH315-53_WIN_01.jpg?v=637485755870270000",
+            "desc":"Core i7 16GB RAM 512GB SSD GeForce RTX 2070 15,6” Windows 10",
+            "price":"8999.10"
+        },
+        {
+            "name":"Notebook Samsung Book X30",
+            "img":"https://i.zst.com.br/thumbs/12/16/31/1630980842.jpg",
+            "desc":"Core i5 1135G7 Tela Full HD 15,6” 8GB RAM 256 GB SSD",
+            "price":"3553.07"
+        }
+    ],
+    "gpu":[
+        {
+            "name":"Gigabyte GeForce RTX 3080 Ti",
+            "img":"https://images.kabum.com.br/produtos/fotos/164651/aorus-geforce-rtx-3080-ti-xtreme-12g_1622661313_gg.jpg",
+            "desc":"12GB GDDR6X, RGB Fusion, Ray Tracing",
+            "price":"11699.90"
+        },
+        {
+            "name":"Gigabyte Aorus NVIDIA GeForce RTX 3090",
+            "img":"https://images.kabum.com.br/produtos/fotos/167205/placa-de-video-gigabyte-aorus-nvidia-geforce-rtx-3090-xtreme-waterforce-rgb-24g-gddr6x-dlss-ray-tracing-gv-n3090aorusx-w-24gd_1625597817_gg.jpg",
+            "desc":"RGB, 24G, GDDR6X, DLSS, Ray Tracing",
+            "price":"18299.90"
+        },
+        {
+            "name":"Sapphire NITRO+ AMD Radeon RX 6900 XT SE",
+            "img":"https://images.kabum.com.br/produtos/fotos/158446/placa-de-video-sapphire-nitro-amd-radeon-rx-6900-xt-se-gaming-oc-16-gbps-16gb-gddr6-hdmi-3xdp-rgb-rdna-2-architecture-11308-03-20g_1623678455_gg.jpg",
+            "desc":"6 Gbps, 16GB GDDR6, HDMI/3xDP",
+            "price":"10499.90"
+        },
+        {
+            "name":"ASUS ROG Strix LC GeForce RTX 3080 Ti",
+            "img":"https://images.kabum.com.br/produtos/fotos/168530/placa-de-video-asus-rog-strix-lc-geforce-rtx-3080-ti-oc-edicao-19-gbps-12gb-gddr6x-water-cooler-rgb-rog-strix-lc-rtx3080ti-o12g-gaming_1627321834_gg.jpg",
+            "desc":" 19 Gbps, 12GB GDDR6X, Water Cooler, RGB",
+            "price":"14499.90"
+        },
+        {
+            "name":"PowerColor Radeon Red Devil RX 6900XT",
+            "img":"https://images.kabum.com.br/produtos/fotos/148249/placa-de-video-powercolor-radeon-red-devil-rx-6900xt-16gb-gddr6-rx-6900xt-16gb-gddr6-axrx-6900xt-16gbd6-3dhe-oc_1614611213_gg.jpg",
+            "desc":"16GB GDDR6 AXRX 6900XT 16GBD6-3DHE/OC",
+            "price":"11499.90"
+        },
+        {
+            "name":"Asus Dual NVIDIA GeForce RTX 3070 O8G V2 OC",
+            "img":"https://images.kabum.com.br/produtos/fotos/212528/placa-de-video-asus-dual-nvidia-geforce-rtx-3070-o8g-v2-oc-8gb-gddr6-lhr-dlss-ray-tracing-90yv0fqc-m0na00_1633192026_gg.jpg",
+            "desc":"8GB GDDR6, LHR, DLSS, Ray Tracing",
+            "price":"7499.90"
+        }
+    ],
+    "cpu":[
+        {
+            "name":"Intel Core i9-12900K",
+            "img":"https://images.kabum.com.br/produtos/fotos/241050/processador-intel-core-i9-12900k-cache-30mb-3-2ghz-5-2ghz-max-turbo-lga-1700-bx8071512900k_1635255797_gg.jpg",
+            "desc":"Cache 30MB, 3.2GHz (5.2GHz Max Turbo), LGA 1700",
+            "price":"4999.90"
+        },
+        {
+            "name":"Intel Core i7-12700K",
+            "img":"https://images.kabum.com.br/produtos/fotos/241048/processador-intel-core-i7-12700k-cache-25mb-3-6ghz-5-0ghz-max-turbo-lga-1700-bx8071512700k_1634830260_gg.jpg",
+            "desc":"Cache 25MB, 3.6GHz (5.0GHz Max Turbo), LGA 1700 ",
+            "price":"3449.90"
+        },
+        {
+            "name":"Intel Core i5-12600K",
+            "img":"https://images.kabum.com.br/produtos/fotos/241046/processador-intel-core-i5-12600k-cache-16mb-3-7ghz-4-9ghz-max-turbo-lga-1700-bx8071512600k_1634828162_gg.jpg",
+            "desc":"Cache 20MB, 3.7GHz (4.9GHz Max Turbo), LGA 1700",
+            "price":"2449.90"
+        },
+        {
+            "name":"Intel Core i3-10100",
+            "img":"https://images.kabum.com.br/produtos/fotos/112989/processador-intel-core-i3-10100-cache-6mb-3-6ghz-lga-1200-bx8070110100_1588942818_gg.jpg",
+            "desc":"Cache 6MB, 3.6GHz (4.3GHz Max Turbo), LGA 1200",
+            "price":"1239.90"
+        },
+        {
+            "name":"AMD Ryzen Threadripper 3960X",
+            "img":"https://images.kabum.com.br/produtos/fotos/108894/processador-amd-ryzen-threadripper-3960x-cache-128mb-4500mhz-strx4-100-100000010wof_1576760163_gg.jpg",
+            "desc":"Cache 128MB, 4500MHz, sTRX4 - 100",
+            "price":"8699.90"
+        },
+        {
+            "name":"AMD Ryzen 9 5950X",
+            "img":"https://images.kabum.com.br/produtos/fotos/129461/processador-amd-ryzen-5-5600x-cache-35mb-3-7ghz-4-6ghz-max-turbo-am4-100-100000059wof_1602604857_gg.jpg",
+            "desc":"Cache 72MB, 3.4GHz (4.9GHz Max Turbo), AM4 - 100",
+            "price":"4999.90"
+        },
+        {
+            "name":"AMD Ryzen 7 5800X",
+            "img":"https://images.kabum.com.br/produtos/fotos/129459/processador-amd-ryzen-9-5900x-cache-70mb-3-7ghz-4-8ghz-max-turbo-am4-100-100000063wof_1602600708_gg.jpg",
+            "desc":"Cache 36MB, 3.8GHz (4.7GHz Max Turbo), AM4 - 100",
+            "price":"2769.90"
+        }
+    ],
+    "motherboard":[
+        {
+            "name":"Asus TUF GAMING H570-PRO WIFI",
+            "img":"https://images.kabum.com.br/produtos/fotos/151563/placa-mae-asus-tuf-gaming-h570-pro-wifi-intel-socket-lga1200-atx-ddr4-90mb16l0-m0eay0_1626105162_gg.jpg",
+            "desc":"Intel LGA1200, DDR4, ATX",
+            "price":"3706.49"
+        },
+        {
+            "name":"Gigabyte Z590 VISION D (rev. 1.0)",
+            "img":"https://images.kabum.com.br/produtos/fotos/230212/placa-mae-gigabyte-z590-vision-d-rev-1-0-intel-lga1200-atx-ddr4-m-2-nvme-wifi-bluetooth_1631709242_gg.jpg",
+            "desc":"Intel LGA1200, ATX, DDR4, M.2 NVME, Wifi, Bluetooth",
+            "price":"3499.90"
+        },
+        {
+            "name":"MSI MEG Z490 ACE",
+            "img":"https://images.kabum.com.br/produtos/fotos/113094/placa-mae-msi-meg-z490-ace-intel-lga-1200-atx-ddr4_1591106354_gg.jpg",
+            "desc":"Intel LGA 1200, ATX, DDR4",
+            "price":"2999.90"
+        },
+        {
+            "name":"Asus ROG Crosshair VIII Impact",
+            "img":"https://images.kabum.com.br/produtos/fotos/109925/placa-mae-asus-rog-crosshair-viii-impact-amd-am4-mini-dtx-ddr4_1581430188_gg.jpg",
+            "desc":"AMD X570, Mini-DTX, DDR4",
+            "price":"2899.90"
+        },
+        {
+            "name":"Asus ROG Strix B550-E Gaming",
+            "img":"https://images.kabum.com.br/produtos/fotos/113864/placa-mae-asus-rog-strix-b550-e-gaming-amd-am4-atx-ddr4_1606418552_gg.jpg",
+            "desc":"AMD AM4, ATX, DDR4",
+            "price":"2339.90"
+        }
+    ],
+    "ssd":[
+        {
+            "name":"Sabrent Rocket Q4",
+            "img":"https://images.kabum.com.br/produtos/fotos/180298/ssd-sabrent-rocket-q4-4tb-m-2-2280-nvme-pcie-leitura-4900mb-s-gravacao-3500mb-s-flash-tlc-nand-sb-rktq4-htss-4tb_1633788243_gg.jpg",
+            "desc":"4TB, M.2 2280 NVMe/PCIe, Leitura 4900MB/s, Gravação 3500MB/s, Flash TLC NAND",
+            "price":"7999.90"
+        },
+        {
+            "name":"XPG GAMMIX S70",
+            "img":"https://images.kabum.com.br/produtos/fotos/133164/ssd-xpg-gammix-s70-2tb-m-2-pcie-heatsink-agammixs70-2t-c_1607374147_gg.jpg",
+            "desc":"2TB, M.2 PCIe, Heatsink, Leituras: 7400Mb/s e Gravações 6400Mb/s",
+            "price":"2799.90"
+        },
+        {
+            "name":"Samsung 980 PRO Series",
+            "img":"https://images.kabum.com.br/produtos/fotos/163616/ssd-samsung-980-pro-series-nvme-1tb-m-2-2280-pcie-4-0x4-leitura-7000mb-s-e-5000mb-s-mz-v8p1t0b-am_1630936520_gg.jpg",
+            "desc":"1TB, M.2 2280, PCIe 4.0x4, Leitura: 7000MB/s e 5000MB/s",
+            "price":"2599.90"
+        }
+    ],
+    "ram":[
+        {
+            "name":"Kingston Fury Beast",
+            "img":"https://images.kabum.com.br/produtos/fotos/172408/memoria-kingston-fury-beast-rgb-128gb-4x32gb-3000mhz-ddr4-cl16-preto-kf430c16bbak4-128_1626205778_gg.jpg",
+            "desc":"RGB, 128GB (4x32GB), 3000MHz, DDR4, CL16, Preto",
+            "price":"4999.90"
+        },
+        {
+            "name":"XPG Spectrix D50 Xtreme",
+            "img":"https://images.kabum.com.br/produtos/fotos/132160/memoria-xpg-spectrix-d50-xtreme-16gb-2x8-ddr4-rgb-5000mhz-cl-19-28-28-ax4u500038g19m-dgm50x_1606139904_gg.jpg",
+            "desc":"16GB (2x8), DDR4, RGB, 5000mhz, CL 19-28-28",
+            "price":"2599.90"
+        },
+        {
+            "name":"Corsair Dominator Platinum",
+            "img":"https://images.kabum.com.br/produtos/fotos/157447/memoria-corsair-dominator-platinum-rgb-32gb-2x16gb-ddr4-3200mhz-c16-white-cmt32gx4m2e3200c16w_1623068266_gg.jpg",
+            "desc":"RGB, 32GB (2x16GB), DDR4, 3200MHz, C16, White",
+            "price":"1699.90"
+        }
+    ]
+}
